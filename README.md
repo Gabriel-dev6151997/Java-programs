@@ -1,2 +1,2 @@
 # Java-programs
-Learning java oop
+All Simple to Challenging Java Terminal projects
